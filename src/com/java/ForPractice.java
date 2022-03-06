@@ -16,9 +16,9 @@ public class ForPractice
 
 		for ( int i = 0; i < 5; i++ )
 		{
-			System.out.println( numbers[ i ] + 5 );
+			System.out.println( numbers[ i ] + i );
 		}
-		
+
 		for ( int i = 0; i < 5; i++ )
 		{
 			System.out.println( i + 1 + ": " + countries[ i ] );
